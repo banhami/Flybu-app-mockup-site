@@ -6,7 +6,7 @@ Flybu is an app idea created by a group of friends during Expedia's 2016 Seattle
 
 Four UW students came up with the idea for Flybu and worked on the concept. 
 * [Alex Banh](https://github.com/wow1881)
-* [Allison Chou](https://imgflip.com/readImage?iid=59776574)
+* [Allison Chou](https://github.com/allisonchou)
 * [Katherine Choi](https://github.com/katherinexchoi)
 * [Howard Yang](https://github.com/yangh25)
 
