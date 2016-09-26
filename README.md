@@ -1,8 +1,8 @@
-# [Flybu](http://wow1881.github.io/Flybu-mockup/) - The travel and dating app 
+# [Flybu](http://wow1881.github.io/Flybu-app-mockup-site/) - The travel and dating app 
 
 Flybu is an app idea created by a group of friends during Expedia's 2016 Seattle hackathon. This repository is a mockup website for the app idea.
 
-View the mockup website [here](http://wow1881.github.io/Flybu-mockup/)!
+View the mockup website [here](http://wow1881.github.io/Flybu-app-mockup-site/)!
 
 ## Team
 
